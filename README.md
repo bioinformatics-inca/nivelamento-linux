@@ -12,7 +12,7 @@ Tópicos apresentados:
 7. Utilitários de texto
 8. Redirecionamento, concatenação e conexão de comandos
 9. Acesso remoto a outros computadores
-10. Transferencia de arquivos entre computadores
+10. Transferência de arquivos entre computadores
 11. Permissões de acesso a arquivos e diretórios
 12. Donos, grupos e outros usuários
 13. Super Usuário
