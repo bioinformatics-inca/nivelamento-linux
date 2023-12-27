@@ -7,8 +7,8 @@ Tópicos apresentados:
 2. [O Terminal](Terminal.md)
 3. [Comandos básicos](CLI-basics.md)
 4. [Caracteres especiais](CaracteresEspeciais.md)
-5. Tipos de arquivos
-6. Manipulação de arquivos
+5. Estrutura de arquivos e diretórios
+6. Manipulação de arquivos e diretórios
 7. Utilitários de texto
 8. Redirecionamento, concatenação e conexão de comandos
 9. Acesso remoto a outros computadores
