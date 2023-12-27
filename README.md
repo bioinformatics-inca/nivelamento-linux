@@ -8,8 +8,8 @@ Tópicos apresentados:
 3. [Comandos básicos](CLI-basics.md)
 4. [Caracteres especiais](CaracteresEspeciais.md)
 5. [Estrutura de arquivos e diretórios](DirsFiles.md)
-6. Manipulação de arquivos e diretórios
-7. Utilitários de texto
+6. [Manipulação de arquivos e diretórios](UseFilesDirs.md)
+7. [Utilitários de texto](TextUtils.md)
 8. Redirecionamento, concatenação e conexão de comandos
 9. Acesso remoto a outros computadores
 10. Transferência de arquivos entre computadores
