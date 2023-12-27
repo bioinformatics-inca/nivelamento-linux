@@ -6,7 +6,7 @@ Tópicos apresentados:
 1. Interface gráfica de usuário (GUI) vs. Interface de linha de comando (CLI)
 2. [O Terminal](Terminal.md)
 3. [Comandos básicos](CLI-basics.md)
-4. Caracteres especiais
+4. [Caracteres especiais](CaracteresEspeciais.md)
 5. Tipos de arquivos
 6. Manipulação de arquivos
 7. Utilitários de texto
