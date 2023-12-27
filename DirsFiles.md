@@ -42,3 +42,37 @@ O GNU/Linux reúne tudo em quatro tipos básicos de arquivos:
 $  ls  -l
 ~~~
 
+
+### Exercícios de manipulação de arquivos
+
+- baixe o arquivo empacotado [curso.tar.gz](curso.tar.gz) usando o comando wget no diretório Downloads
+
+~~~
+$  cd ~/Downloads/
+$  wget https://github.com/bioinformatics-inca/nivelamento-linux/blob/main/curso.tar.gz
+~~~
+
+- descompacte o arquivo dentro deste diretório
+
+~~~
+$  tar -zxvf  curso.tar.gz
+$  ls  curso/
+~~~
+
+### Bonus
+Descrição do comando tar e do arquivo .tar.gz
+
+##  tar  -zxvf  curso.tar.gz
+~~~
+gz - formato de compressão gzip
+tar - “tape” archive - formato de arquivamento e 
+tar - programa GNU para arquivamento
+
+opções comuns:
+ z			# opção de compressão gzip
+ x			# extract
+ v			# verbose
+ f			# file
+ c			# create
+~~~  
+
