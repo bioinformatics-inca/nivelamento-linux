@@ -11,9 +11,9 @@ Tópicos apresentados:
 6. [Manipulação de arquivos e diretórios](UseFilesDirs.md)
 7. [Utilitários de texto](TextUtils.md)
 8. [Redirecionamento, conexão e concatenação de comandos](Redirect.md)
-9. Acesso remoto a outros computadores
-10. Transferência de arquivos entre computadores
-11. Permissões de acesso a arquivos e diretórios
-12. Donos, grupos e outros usuários
+9. [Acesso remoto a outros computadores](RemoteAcess.md)
+10. [Transferência de arquivos entre computadores](FileTransfer.md)
+11. [Donos, grupos e outros usuários](Ownership.md)
+12. [Permissões de acesso a arquivos e diretórios](Permissoes.md)
 13. [Super Usuário](SuperUser.md)
 
