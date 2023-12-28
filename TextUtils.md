@@ -10,6 +10,7 @@ more  Sample2.txt
 ~~~
 
 ## head / tail
+- exibe as primeiras / últimas 10 (default) linhas do arquivo
 ~~~
 head  Sample3.txt
 head  -3  Sample3.txt
@@ -76,12 +77,14 @@ diff  genes.list  teste.txt
 diff  -y  genes.list  teste.txt
 ~~~
 
-## cmp – compara dois arquivos, byte por byte
+## cmp 
+- compara dois arquivos, byte por byte
 ~~~
 cmp  genes.list  teste.txt
 ~~~
 
-## comm – compara dois arquivos (ordenados) linha por linha
+## comm 
+- compara dois arquivos (ordenados) linha por linha
 ~~~
 comm  genes.list  teste.txt
 comm  -23  genes.list  teste.txt
@@ -104,3 +107,4 @@ echo  $PATH
 echo '$PATH'
 ~~~
 \* variáveis do sistema
+
