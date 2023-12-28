@@ -10,10 +10,10 @@ Tópicos apresentados:
 5. [Estrutura de arquivos e diretórios](DirsFiles.md)
 6. [Manipulação de arquivos e diretórios](UseFilesDirs.md)
 7. [Utilitários de texto](TextUtils.md)
-8. Redirecionamento, concatenação e conexão de comandos
+8. [Redirecionamento, conexão e concatenação de comandos](Redirect.md)
 9. Acesso remoto a outros computadores
 10. Transferência de arquivos entre computadores
 11. Permissões de acesso a arquivos e diretórios
 12. Donos, grupos e outros usuários
-13. Super Usuário
+13. [Super Usuário](SuperUser.md)
 
