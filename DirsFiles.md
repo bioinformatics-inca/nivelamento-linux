@@ -49,7 +49,7 @@ $  ls  -l
 
 ~~~
 $  cd ~/Downloads/
-$  wget https://github.com/bioinformatics-inca/nivelamento-linux/blob/main/curso.tar.gz
+$  wget https://github.com/bioinformatics-inca/nivelamento-linux/raw/main/curso.tar.gz
 ~~~
 
 - descompacte o arquivo dentro deste diretório
