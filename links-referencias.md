@@ -28,3 +28,7 @@ On-demand training - online tutorials and webinar library
 
 Live training - Cursos online (a maioria gratuitos) e presenciais (pagos)
 [https://www.ebi.ac.uk/training/live-events]
+
+
+Self-paced learning - links para outras coletâneas
+[https://www.embl.org/training/self-paced-learning]
